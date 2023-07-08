@@ -1,4 +1,5 @@
-[![MasterHead](https://www.kreedon.com/best-gaming-pc-be-a-pro-gamer-experts-review/)
+[![MasterHead]([![MasterHead](https://www.kreedon.com/best-gaming-pc-be-a-pro-gamer-experts-review/)
+)
 
 <h1 align="center">Merhaba 👋, ben ERCAN YILMAZ</h1>
 <h3 align="center">Türkiye'den tutkulu bir yazılım geliştirici</h3>
