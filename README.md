@@ -29,5 +29,5 @@ left ">Diller ve Araçlar:</h3>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=eercanylmz&show_icons=true&locale=en" alt="eercanylmz" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eercanylmz&" alt="eercanylmz" /></p>
-(https://github.com/eercanylmz/eercanylmz/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/eercanylmz/eercanylmz/blob/output/github-contribution-grid-snake.gif)
 
