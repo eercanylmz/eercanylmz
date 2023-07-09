@@ -1,5 +1,4 @@
-[![MasterHead](https://www.indyturk.com/node/94856/k%C3%BClt%C3%BCr/joker%E2%80%99-devam-filmi-i%C3%A7in-5-olas%C4%B1-senaryo-arthur-fleck%E2%80%99-hikayesi-nas%C4%B1l-devam-eder)
-)
+
 
 <h1 align="center">Merhaba 👋, ben ERCAN YILMAZ</h1>
 <h3 align="center">Türkiye'den tutkulu bir yazılım geliştirici</h3>
